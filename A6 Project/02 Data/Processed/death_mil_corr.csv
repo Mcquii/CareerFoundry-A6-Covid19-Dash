@@ -1,0 +1,27 @@
+,Correlaton Rate
+total_cases,0.26083470293604016
+total_deaths,0.33394633628327697
+total_cases_per_million,0.5919507526422731
+total_deaths_per_million,1.0
+weekly_hosp_admissions_per_million,0.09377880075492512
+total_tests,0.19117402850600748
+new_tests,0.14354418969856195
+total_tests_per_thousand,0.2703731253568207
+new_tests_per_thousand,0.1375055934797906
+new_vaccinations_smoothed,-0.040041125635675794
+total_vaccinations_per_hundred,0.2689104158436244
+stringency_index,-0.2735996374921145
+population_density,-0.009776406018630711
+median_age,0.4344692985682794
+aged_65_older,0.4322864216330083
+aged_70_older,0.4302486476466562
+gdp_per_capita,0.1598899685323536
+extreme_poverty,-0.36202320730955834
+cardiovasc_death_rate,-0.1195576961626813
+diabetes_prevalence,0.02766959936707457
+female_smokers,0.4277510103213856
+male_smokers,0.11831364155009448
+handwashing_facilities,0.4293578206884333
+hospital_beds_per_thousand,0.2462203199218602
+life_expectancy,0.34772338549860526
+human_development_index,0.4016990318627707
